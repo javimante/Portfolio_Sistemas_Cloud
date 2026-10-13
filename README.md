@@ -14,9 +14,11 @@
 ## 🗺️ Índice de Evidencias (Enfoque de Seguridad)
 
 ### 🖥️ Nivel 3
-* [ ] **1.- Introducción a los servicios en la nube:** Hecho
-* [ ] **2:** Hecho
-* [ ] **3:** 
+* [ ] **1- Introducción a los servicios en la nube:** Hecho
+* [ ] **2- Amazón Web Services (AWS) - Conceptos básicos**
+* [ ] **2.1- Crear y configurar cuenta en AWS y GPC:**
+* [ ] **2.2- Desplegar una instancia en EC2 en AWS:**
+* [ ] **3- Google Cloud Platform (GCP)**
 
 ### 🔷 Nivel 4
 * [ ] **1:** 
